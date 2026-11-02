@@ -1,0 +1,6 @@
+{
+  "name": "AurumCV — Plataforma Profissional de Currículos",
+  "description": "Plataforma moderna para criação, personalização e exportação em PDF A4 de currículos profissionais gratuitos e premium em Angola e no mundo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
